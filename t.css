@@ -1,0 +1,46 @@
+.navbar{
+    background-color:black !important; 
+}
+.nav-link{
+    color: white !important;
+    font-weight: bolder;
+}
+.fa-cart-plus, .fa-users{
+    font-size: 200% !important;
+}
+.fa-truck,.fa-headphones,.fa-heart{
+    font-size: 150% !important;
+}
+.card{
+    max-height: auto !important; 
+    width: 250px !important;
+    margin-bottom: 8px !important;
+    justify-content: space-between !important;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin: 25px;
+}
+.heading > h2{
+    text-shadow: 2px 2px 4px grey;
+}
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 70px;
+    text-align: center !important;
+    color: white;
+    padding-top: 20px;
+    margin-top: 100px;
+}
+.hi{
+    background-color: maroon;
+    width: 80% !important;
+    height: auto;
+    color: white;
+    padding: 15px;
+    /* justify-content: space-between !important; */
+    /* margin-left: 20px ; */
+}
